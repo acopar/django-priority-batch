@@ -1,4 +1,5 @@
 """Django middleware for the prioritized batcher."""
+
 import logging
 
 from django.utils.deprecation import MiddlewareMixin
